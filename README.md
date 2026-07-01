@@ -299,12 +299,12 @@ The app works on text-based PDFs only. Scanned image PDFs require an OCR layer w
 
 ## 🗺 Roadmap
 
-- [ ] OCR support for scanned PDFs
-- [ ] Hugging Face Spaces deployment
-- [ ] Qdrant and Pinecone vector store backends
-- [ ] Table and figure extraction
-- [ ] Multi-language document support
-- [ ] Export answers as PDF report
+- OCR support for scanned PDFs
+- Hugging Face Spaces deployment
+- Qdrant and Pinecone vector store backends
+- Table and figure extraction
+- Multi-language document support
+- Export answers as PDF report
 
 ---
 
