@@ -1,0 +1,26 @@
+# Environment variables - never upload this
+.env
+
+# Virtual environment - too large, not needed
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# FAISS index files - gets rebuilt on deployment
+faiss_index/
+
+# ChromaDB index
+chroma_index/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folder
+data/
