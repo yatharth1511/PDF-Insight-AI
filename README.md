@@ -310,8 +310,7 @@ The app works on text-based PDFs only. Scanned image PDFs require an OCR layer w
 
 ## 👤 Author
 
-**Yatharth**
-Thapar Institute of Engineering and Technology
+**Yatharth Sharma**
 
 ---
 
